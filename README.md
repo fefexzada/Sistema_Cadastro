@@ -54,8 +54,8 @@ Este projeto foi desenvolvido para automatizar e facilitar o controle de vendas 
 
 ##  Estrutura do Projeto
 
-- `main.py`: Arquivo principal com a interface gráfica
-- `banco.py`: Módulo com todas as operações de banco de dados
+- `ProjetoVeloso_V1.8.0.py`: Arquivo principal com a interface gráfica
+- `banco.py`: Módulo com todas as operações de banco de dados (não disponibilizado por segurança)
 - `README.md`: Este arquivo com documentação do projeto
 
 ##  Licença
